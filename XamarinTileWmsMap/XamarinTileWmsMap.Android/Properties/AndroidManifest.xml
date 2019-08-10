@@ -9,7 +9,7 @@
   <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:label="XamarinTileWmsMap.Android">
-    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyCADLwM6IHnXT9NP1npCBUaJXmvp8NQKlM" />
+    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="API_KEY" />
     <uses-library android:name="org.apache.http.legacy" android:required="false" />
   </application>
 </manifest>
